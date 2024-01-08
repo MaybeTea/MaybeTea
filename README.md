@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaybeTea
 - 👀 I’m interested in becoming a full-stack developer
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me - simona.golovanova@gmail.com
 
 <!---
